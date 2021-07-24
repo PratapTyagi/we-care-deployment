@@ -13,6 +13,7 @@
     "web-vitals": "^1.1.2",
     "web3": "^1.4.0"
   },
+  "homepage": "https://PratapTyagi.github.io/we-care-deployment",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
