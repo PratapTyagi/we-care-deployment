@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: whitesmoke;
+  --theame-color: rgb(117, 212, 27);
+  --font-color: grey;
+}
+
+.app {
+  text-align: center;
+}
