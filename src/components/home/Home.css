@@ -20,13 +20,15 @@
   height: 20%;
   margin: 0 auto;
   margin-bottom: 20px;
+  padding: 10px;
   background-color: white;
+  border-radius: 20px;
   overflow: hidden;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
-  box-shadow: 1px 1px 5px rgba(27, 27, 27, 0.1),
-    -1px -1px 5px rgb(27, 27, 27, 0.1);
+  box-shadow: 2px 2px 5px rgba(27, 27, 27, 0.1),
+    -2px -2px 5px rgb(27, 27, 27, 0.1);
 }
 
 .home > .left > .home__card > p {
@@ -54,4 +56,13 @@ button:hover {
 .home > .right {
   flex: 2;
   margin: 30vh 0 0 0;
+}
+
+@media screen and (max-width: 800px) {
+  .home {
+    width: 100%;
+  }
+  .home > .right {
+    display: none;
+  }
 }
