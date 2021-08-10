@@ -85,7 +85,7 @@ const ViewDetails = () => {
             <p>Total Balance</p>
             <p>{parseInt(campaignSummary.balance) + 1} wei</p>
           </div>
-          <div className="card second">
+          <div className="card">
             <p>Minimum Contribution</p>
             <p>{campaignSummary.minimumContribution} wei</p>
           </div>
@@ -95,7 +95,7 @@ const ViewDetails = () => {
             <p>Total requests</p>
             <p>{campaignSummary.totalRequests}</p>
           </div>
-          <div className="card second">
+          <div className="card">
             <p>Contributers</p>
             <p>{campaignSummary.contributersCount}</p>
           </div>
