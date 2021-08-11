@@ -26,7 +26,7 @@ const ViewRequests = (props) => {
       }
     };
     getRequests();
-  }, [data]);
+  }, []);
 
   // Contributors count
   useEffect(() => {
