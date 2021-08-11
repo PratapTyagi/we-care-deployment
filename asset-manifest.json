@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/we-care-deployment/static/css/main.53e14451.chunk.css",
-    "main.js": "/we-care-deployment/static/js/main.e0a994bb.chunk.js",
-    "main.js.map": "/we-care-deployment/static/js/main.e0a994bb.chunk.js.map",
+    "main.css": "/we-care-deployment/static/css/main.60229005.chunk.css",
+    "main.js": "/we-care-deployment/static/js/main.f5eddf1a.chunk.js",
+    "main.js.map": "/we-care-deployment/static/js/main.f5eddf1a.chunk.js.map",
     "runtime-main.js": "/we-care-deployment/static/js/runtime-main.93b32b1f.js",
     "runtime-main.js.map": "/we-care-deployment/static/js/runtime-main.93b32b1f.js.map",
     "static/js/2.c910d161.chunk.js": "/we-care-deployment/static/js/2.c910d161.chunk.js",
     "static/js/2.c910d161.chunk.js.map": "/we-care-deployment/static/js/2.c910d161.chunk.js.map",
     "index.html": "/we-care-deployment/index.html",
-    "static/css/main.53e14451.chunk.css.map": "/we-care-deployment/static/css/main.53e14451.chunk.css.map",
+    "static/css/main.60229005.chunk.css.map": "/we-care-deployment/static/css/main.60229005.chunk.css.map",
     "static/js/2.c910d161.chunk.js.LICENSE.txt": "/we-care-deployment/static/js/2.c910d161.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.93b32b1f.js",
     "static/js/2.c910d161.chunk.js",
-    "static/css/main.53e14451.chunk.css",
-    "static/js/main.e0a994bb.chunk.js"
+    "static/css/main.60229005.chunk.css",
+    "static/js/main.f5eddf1a.chunk.js"
   ]
 }
