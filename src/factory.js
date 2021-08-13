@@ -3,5 +3,5 @@ import web3 from "./web3.js";
 
 export default new web3.eth.Contract(
   JSON.parse(factory.interface),
-  "0xc696b457C870Bc6d374faF911896BAFC9D03A013"
+  "0x8cAd1604BBA5AdFAa2A9a2C68da3D15E38f30837"
 );
