@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/we-care-deployment/static/css/main.60229005.chunk.css",
-    "main.js": "/we-care-deployment/static/js/main.f5eddf1a.chunk.js",
-    "main.js.map": "/we-care-deployment/static/js/main.f5eddf1a.chunk.js.map",
+    "main.css": "/we-care-deployment/static/css/main.721152ba.chunk.css",
+    "main.js": "/we-care-deployment/static/js/main.06745b15.chunk.js",
+    "main.js.map": "/we-care-deployment/static/js/main.06745b15.chunk.js.map",
     "runtime-main.js": "/we-care-deployment/static/js/runtime-main.93b32b1f.js",
     "runtime-main.js.map": "/we-care-deployment/static/js/runtime-main.93b32b1f.js.map",
-    "static/js/2.c910d161.chunk.js": "/we-care-deployment/static/js/2.c910d161.chunk.js",
-    "static/js/2.c910d161.chunk.js.map": "/we-care-deployment/static/js/2.c910d161.chunk.js.map",
+    "static/js/2.bd988ec9.chunk.js": "/we-care-deployment/static/js/2.bd988ec9.chunk.js",
+    "static/js/2.bd988ec9.chunk.js.map": "/we-care-deployment/static/js/2.bd988ec9.chunk.js.map",
     "index.html": "/we-care-deployment/index.html",
-    "static/css/main.60229005.chunk.css.map": "/we-care-deployment/static/css/main.60229005.chunk.css.map",
-    "static/js/2.c910d161.chunk.js.LICENSE.txt": "/we-care-deployment/static/js/2.c910d161.chunk.js.LICENSE.txt"
+    "static/css/main.721152ba.chunk.css.map": "/we-care-deployment/static/css/main.721152ba.chunk.css.map",
+    "static/js/2.bd988ec9.chunk.js.LICENSE.txt": "/we-care-deployment/static/js/2.bd988ec9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.93b32b1f.js",
-    "static/js/2.c910d161.chunk.js",
-    "static/css/main.60229005.chunk.css",
-    "static/js/main.f5eddf1a.chunk.js"
+    "static/js/2.bd988ec9.chunk.js",
+    "static/css/main.721152ba.chunk.css",
+    "static/js/main.06745b15.chunk.js"
   ]
 }
